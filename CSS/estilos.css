@@ -1,0 +1,58 @@
+ul li a{
+
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: #181818;
+        font-size: 15px;
+        text-decoration: none;
+        letter-spacing: normal;
+        line-height: 10px;
+        margin-left: 50px;
+        transition: 0.1s;
+
+
+}
+
+ul li{
+
+    display: inline-block;
+
+}
+
+ul li a:hover, .active {
+    color:#00BFFF;
+}
+
+.titulos{
+color:orangered;
+
+}
+
+p{
+
+    text-align: left;
+    font-size: 20px;
+
+}
+
+h3{
+    color:orangered;
+}
+
+
+.titulos{
+
+text-align: center;
+
+}
+
+.subtitulo{
+
+color: maroon;
+font-weight: bold;
+
+}
+
+
+html{
+    scroll-behavior: smooth;
+ }
